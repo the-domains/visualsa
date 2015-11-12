@@ -1,0 +1,23 @@
+name: visualSA
+favicon: null
+layout_spectrum: 0.32733244448900223
+typography_spectrum: 0.36205684719607234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7280597363132983
+  lightness: 0.9840142834000289
+  saturation: 0.8970892855431885
+  rhythmicContrast: 0.36957257706671953
+purpose: []
