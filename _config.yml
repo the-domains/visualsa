@@ -1,7 +1,7 @@
 name: visualSA
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.36205684719607234
+typography_spectrum: 0.1133
 title: Photography portfolio
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#817833'
     - '#e2c59b'
   brandStrength: 0.9375
-  lightness: 0.9840142834000289
-  saturation: 0.8970892855431885
-  rhythmicContrast: 0.36957257706671953
+  lightness: 0.125
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
